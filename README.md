@@ -7,3 +7,4 @@ The companion pages cover workflow design, output checks, accessibility, and com
 ## Dated updates
 
 - [2026-07-23 notes](2026-07-23-index.md)
+- [2026-07-24 notes](2026-07-24-index.md)
